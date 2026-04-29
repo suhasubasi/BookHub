@@ -9,3 +9,15 @@ C:\Users\suhas\Desktop\MY_PORTFOLIO\BookHub.Domain\obj\Debug\net9.0\BookHub.Doma
 C:\Users\suhas\Desktop\MY_PORTFOLIO\BookHub.Domain\obj\Debug\net9.0\refint\BookHub.Domain.dll
 C:\Users\suhas\Desktop\MY_PORTFOLIO\BookHub.Domain\obj\Debug\net9.0\BookHub.Domain.pdb
 C:\Users\suhas\Desktop\MY_PORTFOLIO\BookHub.Domain\obj\Debug\net9.0\ref\BookHub.Domain.dll
+C:\Users\suhas\Desktop\BookHub\BookHub.Domain\bin\Debug\net9.0\BookHub.Domain.deps.json
+C:\Users\suhas\Desktop\BookHub\BookHub.Domain\bin\Debug\net9.0\BookHub.Domain.dll
+C:\Users\suhas\Desktop\BookHub\BookHub.Domain\bin\Debug\net9.0\BookHub.Domain.pdb
+C:\Users\suhas\Desktop\BookHub\BookHub.Domain\obj\Debug\net9.0\BookHub.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suhas\Desktop\BookHub\BookHub.Domain\obj\Debug\net9.0\BookHub.Domain.AssemblyInfoInputs.cache
+C:\Users\suhas\Desktop\BookHub\BookHub.Domain\obj\Debug\net9.0\BookHub.Domain.AssemblyInfo.cs
+C:\Users\suhas\Desktop\BookHub\BookHub.Domain\obj\Debug\net9.0\BookHub.Domain.csproj.CoreCompileInputs.cache
+C:\Users\suhas\Desktop\BookHub\BookHub.Domain\obj\Debug\net9.0\BookHub.Domain.sourcelink.json
+C:\Users\suhas\Desktop\BookHub\BookHub.Domain\obj\Debug\net9.0\BookHub.Domain.dll
+C:\Users\suhas\Desktop\BookHub\BookHub.Domain\obj\Debug\net9.0\refint\BookHub.Domain.dll
+C:\Users\suhas\Desktop\BookHub\BookHub.Domain\obj\Debug\net9.0\BookHub.Domain.pdb
+C:\Users\suhas\Desktop\BookHub\BookHub.Domain\obj\Debug\net9.0\ref\BookHub.Domain.dll
