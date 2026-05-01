@@ -23,8 +23,8 @@ public static class DbSeeder
             CompanyId = company.Id,
             FirstName = "Admin",
             LastName = "User",
-            Email = "[EMAIL_ADDRESS]",
-            PasswordHash = "hashed_password",
+            Email = "admin@demo.com",
+            PasswordHash = BCrypt.Net.BCrypt.HashPassword("AdminUser123!"),
             Role = UserRole.Admin,
             CreatedAt = DateTime.UtcNow
         };
