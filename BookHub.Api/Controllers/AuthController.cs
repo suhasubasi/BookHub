@@ -34,6 +34,9 @@ public class AuthController : ControllerBase
     [HttpGet("me")]
     public IActionResult Me()
     {
-        return Ok(User.Claims.Select(c => new { c.Type, c.Value }));
+        return Ok(new {
+            claims = User.Claims.Select(c => new { c.Type, c.Value }),
+            tenantId = HttpContext.Items["companyId"]
+        });
     }
 }
